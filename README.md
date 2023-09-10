@@ -1,10 +1,8 @@
 # hznu_route_ppoE
 
 #### Description
-让大家在杭州师范大学中能愉快使用路由器上网！
 
-#### Software Architecture
-Software architecture description
+让大家在杭州师范大学中能愉快使用路由器上网！
 
 #### Instructions
 
